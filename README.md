@@ -1,2 +1,3 @@
-# CareSync App
-Clean, modern, emphasizes real-time health monitoring.
+# FAKECareSync App DEMO
+THIS ISNT THE REAL ONE 
+
